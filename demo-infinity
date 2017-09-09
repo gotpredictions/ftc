@@ -3,3 +3,10 @@ Stealth is a bad idea.
 Let's face it. 
 
 Never do it again. 
+
+main() {
+    robot.run(10);
+}
+
+Wait, I forgot FTC uses Java. 
+
